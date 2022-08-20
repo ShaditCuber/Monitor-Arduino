@@ -9,8 +9,8 @@ Configura los puertos donde esta conectado tu arduino en el index.py e instala O
 
 ### Prerequisitos
 
-+Tener pip instalado
-+Tener la libreria wim y pyserial instalada
++ Tener pip instalado
++ Tener la libreria wim y pyserial instalada
 
 
 
