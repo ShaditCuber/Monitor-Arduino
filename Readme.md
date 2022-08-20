@@ -22,7 +22,7 @@ Si no tienes instalada las librerias hazlo de la siguiente forma :
 + ```python -m pip install -U pip```
 ### Instalar librerias
 + ```pip install wim```
-+```pip install pyserial```
++ ```pip install pyserial```
 
 
 ## Autores
