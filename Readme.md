@@ -1,6 +1,6 @@
-# Titulo Proyecto
+# Monitor Temperatura y Carga Arduino y Python
 
-Monitor Temperatura y Carga Arduino y Python
+
 
 ## Como empezar
 
